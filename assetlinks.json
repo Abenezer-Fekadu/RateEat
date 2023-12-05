@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "rateeat_app",
+      "package_name": "com.example.rateeat_mobile",
+      "sha256_cert_fingerprints":
+      ["28:8E:16:E2:BC:61:F7:88:1A:75:F1:95:97:4F:B4:D8:63:FF:95:5C"]
+    }
+  }]
